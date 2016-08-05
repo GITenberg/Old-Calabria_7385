@@ -1,0 +1,29 @@
+_repo: Old-Calabria_7385
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Douglas, Norman
+    aliases:
+    - Douglas, George Norman
+    - Douglass, George Norman
+    - Douglass, Norman
+    birthdate: 1868
+    deathdate: 1952
+    gutenberg_agent_id: '1484'
+    url: http://www.gutenberg.org/2009/agents/1484
+    wikipedia: http://en.wikipedia.org/wiki/Norman_Douglas
+description: Cover -- Contents.
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7385'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Calabria -- Description and travel'
+- !lcc 'DG'
+- GITenberg
+title: Old Calabria
+url: http://www.gutenberg.org/ebooks/7385
