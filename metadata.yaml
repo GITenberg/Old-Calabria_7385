@@ -1,5 +1,8 @@
 _repo: Old-Calabria_7385
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Douglas, Norman
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1484
     wikipedia: http://en.wikipedia.org/wiki/Norman_Douglas
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7385#Old-Calabria
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
